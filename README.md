@@ -1,1 +1,17 @@
-# Seu-caminho-ap-s-a-escola
+const perguntas=[
+{
+    enunciado:" "
+    alternativas:[
+{
+    texto:" "
+    afirmação:" "
+
+}
+{
+    texto:" ",
+    afirmação:""
+    
+}
+    ]
+}
+]
